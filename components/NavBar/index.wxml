@@ -1,0 +1,6 @@
+<view class="nav_bar" style="{{style}}">
+  <!-- 左侧 -->
+  <view></view>
+  <!-- 标题 -->
+  <view>navbar</view>
+</view>

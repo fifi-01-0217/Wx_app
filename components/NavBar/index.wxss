@@ -1,0 +1,6 @@
+.nav_bar{
+  padding-top: var(--top);
+  width: 100%;
+  height: var(--height);
+  line-height: var(--height);
+}

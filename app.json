@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/Home/index",
+    "pages/Space/index",
+    "pages/BookingVisit/index",
+    "pages/BookingCollect/index",
+    "pages/My/index",
+    "custom-tab-bar/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "custom": true,
+    "list": [
+      {
+        "pagePath": "pages/Home/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/Space/index",
+        "text": "找空间"
+      },
+      {
+        "pagePath": "pages/BookingVisit/index",
+        "text": "预约参观"
+      },
+      {
+        "pagePath": "pages/BookingCollect/index",
+        "text": "预约收藏"
+      },
+      {
+        "pagePath": "pages/My/index",
+        "text": "我的"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

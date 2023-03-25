@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "NavBar":"/components/NavBar/index"
+  },
+  "navigationStyle": "custom"
+}
